@@ -6,7 +6,7 @@ export const contingents = [
 			name: 'Rons',
 			image: '/images/logo-rons.png'}, 	{
 				name: 'Johor Selatan',
-				image: '/images/logo-johor-selatan.jpg'}, 	{
+				image: '/images/logo-johor-selatan.png'}, 	{
 					name: 'HQ',
 					image: '/images/logo-hq.jpg'},
 					
